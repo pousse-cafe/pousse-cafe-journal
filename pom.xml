@@ -5,14 +5,14 @@
     <parent>
         <groupId>org.pousse-cafe-framework</groupId>
         <artifactId>pousse-cafe</artifactId>
-        <version>0.10.0-SNAPSHOT</version>
+        <version>0.10.0</version>
     </parent>
 
     <artifactId>pousse-cafe-journal</artifactId>
     <name>Pousse-Café - Journal</name>
 
     <properties>
-        <pousse-cafe.version>0.10.0-SNAPSHOT</pousse-cafe.version>
+        <pousse-cafe.version>0.10.0</pousse-cafe.version>
     </properties>
 
     <dependencies>
