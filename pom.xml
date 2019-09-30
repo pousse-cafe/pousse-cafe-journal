@@ -42,4 +42,10 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
+
+    <scm>
+        <connection>scm:git:https://github.com/pousse-cafe/pousse-cafe-journal.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com/pousse-cafe/pousse-cafe-journal.git</developerConnection>
+        <url>http://github.com/pousse-cafe/pousse-cafe-journal</url>
+    </scm>
 </project>
